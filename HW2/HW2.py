@@ -167,13 +167,3 @@ if __name__ == '__main__':
     
     creat_im_window("image_1_2_3_4", image_1_2_3_4)
     im_show()
-
-    # the example of image window
-    # creat_im_window("Result",result)
-    # im_show()
-
-    # you can use this function to store the result
-    # cv2.imwrite("result.jpg",result)
-    
-    # image_2_3 = StitchImage(all_images[1], all_images_gray[1], all_images[2], all_images_gray[2])
-    # cv2.imwrite("image_2_3.jpg",image_2_3)
